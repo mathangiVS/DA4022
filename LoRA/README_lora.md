@@ -6,7 +6,7 @@ LoRA is a useful **shared baseline** for testing whether resource-aware methods 
 
 ## Paper classification
 
-The official AdaptFM accepted-paper titles do not identify a clear primary LoRA paper. Therefore, this module is currently a baseline/infrastructure module rather than an assigned group of AdaptFM paper reproductions. Do not attach a paper here unless the paper's method actually uses or studies LoRA; when it does, link it in [`PAPER_INDEX.md`](../PAPER_INDEX.md) and cross-reference its primary module.
+The official AdaptFM accepted-paper titles do not identify a clear primary LoRA paper. Therefore, this module is currently a baseline/infrastructure module rather than an assigned  group of AdaptFM paper reproductions. Do not attach a paper here unless the paper's method actually uses or studies LoRA; when it does, link it in [`PAPER_INDEX.md`](../PAPER_INDEX.md) and cross-reference its primary module.
 
 ## Suggested structure
 
