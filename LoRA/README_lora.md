@@ -2,7 +2,7 @@
 
 ## Purpose
 
-LoRA is a useful **shared baseline** for testing whether resource-aware methods can preserve adaptation quality while reducing trainable parameters or adaptation storage. Keep the adapter mechanism separate from the base model registry and dataset code.
+loRA is a useful **shared baseline** for testing whether resource-aware methods can preserve adaptation quality while reducing trainable parameters or adaptation storage. Keep the adapter mechanism separate from the base model registry and dataset code.
 
 ## Paper classification
 
